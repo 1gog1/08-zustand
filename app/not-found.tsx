@@ -5,7 +5,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Page not found",
   description:
-    "Page notSorry, but the page you requested was not found. Check the address or return to the main page. faund",
+    "Page not found. Sorry, the page you requested could not be found. Check the address or return to the home page.",
   openGraph: {
     title: " Page not found",
     description:
